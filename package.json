@@ -1,17 +1,19 @@
 {
-    "name": "pluggable",
+    "name": "@mwhite/extensible",
     "version": "0.1.0",
-    "description": "A plugin framework for JavaScript",
+    "description": "An extension framework for JavaScript",
     "author": "Michael White <m@mwhite.info>",
     "license": "MIT",
     "homepage": "https://mwhite.github.io/pluggable",
     "keywords": [
-        "plugin"
+        "plugin",
+        "extension",
+        "modular"
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/mwhite/pluggable.git"
     },
-    "main": "pluggable.js"
+    "main": "extensible.js"
 }
 
