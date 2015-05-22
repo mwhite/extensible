@@ -1,0 +1,8 @@
+{
+    "name": "extensible",
+    "version": "0.1.0",
+    "author": "Michael White <m@mwhite.info>",
+    "description": "An extension framework for JavaScript",
+    "license": "MIT"
+}
+

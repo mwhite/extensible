@@ -4,7 +4,7 @@
     "description": "An extension framework for JavaScript",
     "author": "Michael White <m@mwhite.info>",
     "license": "MIT",
-    "homepage": "https://mwhite.github.io/pluggable",
+    "homepage": "https://mwhite.github.io/extensible",
     "keywords": [
         "plugin",
         "extension",
@@ -12,7 +12,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mwhite/pluggable.git"
+        "url": "https://github.com/mwhite/extensible.git"
     },
     "main": "extensible.js"
 }
