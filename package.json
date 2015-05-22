@@ -1,0 +1,17 @@
+{
+    "name": "pluggable",
+    "version": "0.1.0",
+    "description": "A plugin framework for JavaScript",
+    "author": "Michael White <m@mwhite.info>",
+    "license": "MIT",
+    "homepage": "https://mwhite.github.io/pluggable",
+    "keywords": [
+        "plugin"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mwhite/pluggable.git"
+    },
+    "main": "pluggable.js"
+}
+
