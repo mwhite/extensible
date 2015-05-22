@@ -34,7 +34,7 @@ var extendOptions = function (defaults, options) {
     for (var k in options) {
         ret[k] = extend(ret[k], options[k]);
     }
-    ret.exts = options.exts;
+    ret.extensions = options.extensions;
     return ret;
 };
 
